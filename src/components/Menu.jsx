@@ -56,7 +56,7 @@ export default function Menu() {
       {NumOfPizzas > 0 ? (
         <>
           <p>
-            Authentiv Italian cuisine. six creative dishes to choose from. All
+            Authentic Italian cuisine. Six creative dishes to choose from. All
             from our stone over. All organic, all delicious.
           </p>
 
